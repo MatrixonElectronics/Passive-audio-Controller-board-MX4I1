@@ -1,9 +1,11 @@
 # Passive Audio Controller Board
 ## Overview
 The MX4I1 Passive Audio Controller Board is a compact, power-free stereo audio routing module designed for both splitting and mixing line-level audio signals. It features three independent B100K stereo potentiometers (Master, CH1, CH2), RCA connectors, and multiple 3.5mm TRS jacks, making it compatible with a wide range of audio devices.
-The board can operate in two modes:
-Splitter Mode: Master to CH1 + CH2
-Mixer Mode: CH1 + CH2 to Master
+
+**The board can operate in two modes:**
+- Splitter Mode: Master to CH1 + CH2
+- Mixer Mode: CH1 + CH2 to Master
+
 Isolation resistors on CH1 and CH2 protect sources from loading conflicts when mixing signals passively.
 
 ## Key Features
