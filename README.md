@@ -26,8 +26,18 @@ Isolation resistors on CH1 and CH2 protect sources from loading conflicts when m
 - Audio setup for DIY amplifiers or custom rigs
 - Portable, noise-free audio mixing without power
 
-Developed by Matrixon Electronics
+## Product Page
+
+Passive Audio Controller Board MX4I1 :
+https://matrixonelectronics.com/products/passive-audio-controller-board-mx4i1/
+
+## Documentation
+
+Datasheet included in this repository.
+
+Developed by Matrixon Electronics  
 https://matrixonelectronics.com
 
-For Other Services Visit:
+For Other Services Visit
 https://matrixonelectronics.com/services
+
