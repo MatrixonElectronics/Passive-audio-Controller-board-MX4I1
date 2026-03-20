@@ -25,3 +25,9 @@ Isolation resistors on CH1 and CH2 protect sources from loading conflicts when m
 - Volume control between media devices and speakers
 - Audio setup for DIY amplifiers or custom rigs
 - Portable, noise-free audio mixing without power
+
+Developed by Matrixon Electronics
+https://matrixonelectronics.com
+
+For Other Services Visit:
+https://matrixonelectronics.com/services
